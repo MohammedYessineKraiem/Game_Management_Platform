@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "ctype.h": "c",
+        "conio.h": "c"
+    }
+}

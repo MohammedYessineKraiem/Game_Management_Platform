@@ -1,0 +1,37 @@
+Ce projet a été réalisé par Mohammed Yessine Kraiem
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Le programme est entièrement compilé dans l'application "Programme_Final". Nous avons également fourni les scripts pour 
+chaque jeu ainsi que le code principal afin que vous puissiez examiner notre progression plus en détail.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Le projet se compose d'un gestionnaire de jeux qui vous permet de choisir des jeux à jouer et d'enregistrer 
+vos progrès. Vous pouvez également ajouter de nouveaux jeux et en apprendre davantage sur ceux déjà existants.
+Explication de L'interface:
+Lors du lancement de l'application, vous serez accueilli par 5 options numérotées de 1 à 5 :
+
+1-Pour découvrir les jeux que nous avons créés, appuyez sur 1.
+Vous accéderez à une liste complète des jeux disponibles.
+
+2-Pour choisir un jeu et jouer, appuyez sur 2.
+Vous devrez ensuite sélectionner un jeu parmi la liste des jeux que vous avez consultés dans la première option :
+
+Si vous appuyez sur 1, vous jouez à Jeu 1 : Pierre, Papier, Ciseaux.
+Si vous appuyez sur 2, vous jouez à Jeu 2 : Hangman.
+Et ainsi de suite pour les autres jeux.
+
+3-Pour consulter vos progrès dans l'application, appuyez sur 3.
+Vous verrez :
+Le jeu auquel vous avez le plus joué.
+Vos scores.
+Votre meilleur et votre pire jeu.
+
+4-Pour ajouter un jeu à la liste, appuyez sur 4.
+Entrez ensuite le nom et une description de votre jeu. Nous l'ajouterons ultérieurement.
+
+5-Pour quitter l'application, appuyez sur 5.
+
+Avec cette interface conviviale, amusez-vous bien ! 🎮
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*************************Remarque : Vous devez lancer les jeux à partir de "Programme_Final" et non individuellement. Merci !***********************************
